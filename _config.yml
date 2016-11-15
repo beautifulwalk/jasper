@@ -4,26 +4,26 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'ko-kr'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: '아름다운 발걸음'
+description: "좋은 소식을 가져오며 평화를 공포하며 복된 좋은 소식을 가져오며 구원을 공포하며 시온을 향하여 이르기를 네 하나님이 통치하신다 하는 자의 산을 넘는 발이 어찌 그리 아름다운고 - 사52:7"
 
 # Author's info
-author: 'Casper McFadden'
+author: '박성호'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+nickname: '박성호'
+#bio: ''
+location: 'South Korea'
+url: 'http://beautifulwak.github.io/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+#short_url: 'biomadeira.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+#baseurl: 
 
 # Permalinks
 permalink: /:title
